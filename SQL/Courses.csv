@@ -1,0 +1,21 @@
+CID,Course Name,Dept,CrdHrs,PreReq
+CL1001,IICT,CS,1,
+CL1002,Programming Fundamentals Lab,CS,1,
+CS1002,Programming Fundamentals,CS,3,
+MT1003,Calculus,SH,3,
+NS1001,Applied Physics,SH,3,
+SL1004,English Lab,SH,1,
+SS1002,Islamiyat,SH,3,
+SS1004,English,SH,2,
+CS2001,Data Structures,CS,3,CS1002
+CS2002,Data Structures Lab,CS,1,CS2001
+MT2001,Linear Algebra,SH,3,MT1003
+MT2002,Discrete Mathematics,CS,3,
+PH1001,Applied Mechanics,SH,3,NS1001
+PH1002,Applied Mechanics Lab,SH,1,PH1001
+SS2001,Introduction to Psychology,SH,2,
+SS2002,Introduction to Sociology,SH,2,
+CL2001,Computer Networks,CS,3,CS2001
+CL2002,Computer Networks Lab,CS,1,CL2001
+EE1001,Circuit Theory,EE,3,
+EE1002,Circuit Theory Lab,EE,1,EE1001

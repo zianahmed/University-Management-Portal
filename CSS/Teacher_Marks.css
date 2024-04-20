@@ -1,0 +1,91 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+section
+{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+section .Left
+{
+    width: 100%;
+    height: 20%;
+    background: linear-gradient(rgb(49, 62, 97),#3d694e);
+}
+
+
+section .Left .Dash h2
+{
+    padding: 20px 20px;
+    color: azure;
+}
+
+section .Bottom
+{
+    width: 100%;
+    height: 407%;
+    background: #f1eaea;
+}
+
+section .SideBar
+{
+    background: linear-gradient(rgb(8, 46, 85),rgb(40, 199, 128));
+    position: relative;
+    width: 20%;
+    height: 100%;
+    
+}
+
+section .SideBar .Logo
+{
+    padding-top: 20px;
+    padding-left: 80px;
+    color: azure;
+}
+
+section .SideBar .List .bt
+{
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-left: 22%;
+    letter-spacing: 1px;
+    color: #78a8c0;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background: transparent;
+    outline: none;
+    border: none;
+    font-weight: 500;
+}
+
+section .SideBar .List .bt:hover
+{
+    color: #3d694e;
+}
+
+section .Left .Bottom .T1
+{
+    display: flex;
+    color: rgb(135, 131, 161);
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+section .Left .Bottom .T1 .T2
+{
+    background: transparent;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+
+
+
