@@ -82,11 +82,11 @@ The project is built around several core entities:
 ## Installation
 1. Clone the repository from GitHub:
    ```sh
-   git clone https://github.com/yourusername/university-portal.git
+   git clone https://github.com/zianahmed/University-Management-Portal.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd university-portal
+   cd University-Management-Portal
    ```
 3. Install the required dependencies:
    ```sh
